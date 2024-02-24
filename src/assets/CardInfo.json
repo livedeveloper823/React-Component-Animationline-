@@ -1,0 +1,42 @@
+{
+  "id": "animated-line-card-expansion",
+  "title": "Active Insurance",
+  "sections": [
+    {
+      "id": "insurance",
+      "title": "Insurance",
+      "cards": [
+        {
+          "id": "active-cyber-insurance",
+          "title": "Active Cyber Insurance",
+          "body": "Manage and transfer cyber risk with broad coverage and access active monitoring and in-house incident response to help protect your business before, during, and after an incident."
+        },
+        {
+          "id": "active-tech-eo",
+          "title": "Active Tech E&O",
+          "body": "Comprehensive and innovative errors and omissions coverage to help technology businesses protect from legal and financial losses."
+        },
+        {
+          "id": "active-executive-risks",
+          "title": "Active Executive Risks",
+          "body": "Protect your company and leaders from management liability risks – like those associated with M&A, regulatory changes, remote work, cybercrime, and more."
+        },
+        {
+          "id": "coalition-control-tm",
+          "title": "Coalition Control TM",
+          "body": "Get the visibility you need to take charge of your cyber risk with Coalition Control — the industry-leading risk management platform for every organization."
+        },
+        {
+          "id": "managed-detection-response",
+          "title": "Managed Detection & Response",
+          "body": "Respond and recover from cyber attacks faster – and help prevent future attacks. See how with the expertise, technology, and tools of Coalition's MDR."
+        },
+        {
+          "id": "incident-response",
+          "title": "Incident Response",
+          "body": "Our in-house staff of incident responders, forensic specialists, and security engineers respond in minutes, not days, to help you recover from cyber attacks."
+        }
+      ]
+    }
+  ]
+}
